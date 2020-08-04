@@ -3440,7 +3440,7 @@ Recht auf Vergessenwerden
                     <PARAG IDENTIFIER="032.001">
                         <NO.PARAG>(1)</NO.PARAG>
                         <ALINEA>
-                            <P>Unter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten natürlicher Personen treffen der Verantwortliche und der Auftragsverarbeiter geeignete technische und organisatorische Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten; diese Maßnahmen schließen unter anderem Folgendes ein:</P>
+                            <P>Unter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten natürlicher Personen treffen der Verantwortliche und der Auftragsverarbeiter geeignete technische und organisatorische Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten; diese Maßnahmen schließen gegebenenfalls unter anderem Folgendes ein:</P>
                             <LIST TYPE="alpha">
                                 <ITEM>
                                     <NP>
@@ -3785,7 +3785,7 @@ Recht auf Vergessenwerden
                                 <ITEM>
                                     <NP>
                                         <NO.P>a)</NO.P>
-                                        <TXT>die Verarbeitung von einer Behörde oder öffentlichen Stelle durchgeführt wird, mit Ausnahme von Gerichten, die im Rahmen ihrer justiziellen Tätigkeit handeln,</TXT>
+                                        <TXT>die Verarbeitung von einer Behörde oder öffentlichen Stelle durchgeführt wird, mit Ausnahme von Gerichten, soweit sie im Rahmen ihrer justiziellen Tätigkeit handeln,</TXT>
                                     </NP>
                                 </ITEM>
                                 <ITEM>
@@ -4003,7 +4003,7 @@ Recht auf Vergessenwerden
                     </PARAG>
                     <PARAG IDENTIFIER="040.003">
                         <NO.PARAG>(3)</NO.PARAG>
-                        <ALINEA>Zusätzlich zur Einhaltung durch die unter diese Verordnung fallenden Verantwortlichen oder Auftragsverarbeiter können Verhaltensregeln, die gemäß Absatz 5 des vorliegenden Artikels genehmigt wurden und gemäß Absatz 9 des vorliegenden Artikels allgemeine Gültigkeit besitzen, können auch von Verantwortlichen oder Auftragsverarbeitern, die gemäß Artikel 3 nicht unter diese Verordnung fallen, eingehalten werden, um geeignete Garantien im Rahmen der Übermittlung personenbezogener Daten an Drittländer oder internationale Organisationen nach Maßgabe des Artikels 46 Absatz 2 Buchstabe e zu bieten. Diese Verantwortlichen oder Auftragsverarbeiter gehen mittels vertraglicher oder sonstiger rechtlich bindender Instrumente die verbindliche und durchsetzbare Verpflichtung ein, die geeigneten Garantien anzuwenden, auch im Hinblick auf die Rechte der betroffenen Personen.</ALINEA>
+                        <ALINEA>Zusätzlich zur Einhaltung durch die unter diese Verordnung fallenden Verantwortlichen oder Auftragsverarbeiter können Verhaltensregeln, die gemäß Absatz 5 des vorliegenden Artikels genehmigt wurden und gemäß Absatz 9 des vorliegenden Artikels allgemeine Gültigkeit besitzen, auch von Verantwortlichen oder Auftragsverarbeitern, die gemäß Artikel 3 nicht unter diese Verordnung fallen, eingehalten werden, um geeignete Garantien im Rahmen der Übermittlung personenbezogener Daten an Drittländer oder internationale Organisationen nach Maßgabe des Artikels 46 Absatz 2 Buchstabe e zu bieten. Diese Verantwortlichen oder Auftragsverarbeiter gehen mittels vertraglicher oder sonstiger rechtlich bindender Instrumente die verbindliche und durchsetzbare Verpflichtung ein, die geeigneten Garantien anzuwenden, auch im Hinblick auf die Rechte der betroffenen Personen.</ALINEA>
                     </PARAG>
                     <PARAG IDENTIFIER="040.004">
                         <NO.PARAG>(4)</NO.PARAG>
@@ -4080,7 +4080,7 @@ Recht auf Vergessenwerden
                     </PARAG>
                     <PARAG IDENTIFIER="041.003">
                         <NO.PARAG>(3)</NO.PARAG>
-                        <ALINEA>Die zuständige Aufsichtsbehörde übermittelt den Entwurf der Kriterien für die Akkreditierung einer Stelle nach Absatz 1 gemäß dem Kohärenzverfahren nach Artikel 63 an den Ausschuss.</ALINEA>
+                        <ALINEA>Die zuständige Aufsichtsbehörde übermittelt den Entwurf der Anforderungen an die Akkreditierung einer Stelle nach Absatz 1 gemäß dem Kohärenzverfahren nach Artikel 63 an den Ausschuss.</ALINEA>
                     </PARAG>
                     <PARAG IDENTIFIER="041.004">
                         <NO.PARAG>(4)</NO.PARAG>
@@ -4088,7 +4088,7 @@ Recht auf Vergessenwerden
                     </PARAG>
                     <PARAG IDENTIFIER="041.005">
                         <NO.PARAG>(5)</NO.PARAG>
-                        <ALINEA>Die zuständige Aufsichtsbehörde widerruft die Akkreditierung einer Stelle gemäß Absatz 1, wenn die Voraussetzungen für ihre Akkreditierung nicht oder nicht mehr erfüllt sind oder wenn die Stelle Maßnahmen ergreift, die nicht mit dieser Verordnung vereinbar sind.</ALINEA>
+                        <ALINEA>Die zuständige Aufsichtsbehörde widerruft die Akkreditierung einer Stelle gemäß Absatz 1, wenn die Anforderungen an ihre Akkreditierung nicht oder nicht mehr erfüllt sind oder wenn die Stelle Maßnahmen ergreift, die nicht mit dieser Verordnung vereinbar sind.</ALINEA>
                     </PARAG>
                     <PARAG IDENTIFIER="041.006">
                         <NO.PARAG>(6)</NO.PARAG>
@@ -4125,7 +4125,7 @@ Recht auf Vergessenwerden
                     </PARAG>
                     <PARAG IDENTIFIER="042.007">
                         <NO.PARAG>(7)</NO.PARAG>
-                        <ALINEA>Die Zertifizierung wird einem Verantwortlichen oder einem Auftragsverarbeiter für eine Höchstdauer von drei Jahren erteilt und kann unter denselben Bedingungen verlängert werden, sofern die einschlägigen Voraussetzungen weiterhin erfüllt werden. Die Zertifizierung wird gegebenenfalls durch die Zertifizierungsstellen nach Artikel 43 oder durch die zuständige Aufsichtsbehörde widerrufen, wenn die Voraussetzungen für die Zertifizierung nicht oder nicht mehr erfüllt werden.</ALINEA>
+                        <ALINEA>Die Zertifizierung wird einem Verantwortlichen oder einem Auftragsverarbeiter für eine Höchstdauer von drei Jahren erteilt und kann unter denselben Bedingungen verlängert werden, sofern die einschlägigen Kriterien weiterhin erfüllt werden. Die Zertifizierung wird gegebenenfalls durch die Zertifizierungsstellen nach Artikel 43 oder durch die zuständige Aufsichtsbehörde widerrufen, wenn die Kriterien für die Zertifizierung nicht oder nicht mehr erfüllt werden.</ALINEA>
                     </PARAG>
                     <PARAG IDENTIFIER="042.008">
                         <NO.PARAG>(8)</NO.PARAG>
@@ -4204,7 +4204,7 @@ Recht auf Vergessenwerden
                     </PARAG>
                     <PARAG IDENTIFIER="043.003">
                         <NO.PARAG>(3)</NO.PARAG>
-                        <ALINEA>Die Akkreditierung von Zertifizierungsstellen nach den Absätzen 1 und 2 erfolgt anhand der Kriterien, die von der gemäß Artikel 55 oder 56 zuständigen Aufsichtsbehörde oder — gemäß Artikel 63 — von dem Ausschuss genehmigt wurden. Im Fall einer Akkreditierung nach Absatz 1 Buchstabe b des vorliegenden Artikels ergänzen diese Anforderungen diejenigen, die in der Verordnung (EG) Nr. 765/2008 und in den technischen Vorschriften, in denen die Methoden und Verfahren der Zertifizierungsstellen beschrieben werden, vorgesehen sind.</ALINEA>
+                        <ALINEA>Die Akkreditierung von Zertifizierungsstellen nach den Absätzen 1 und 2 erfolgt anhand der Anforderungen, die von der gemäß Artikel 55 oder 56 zuständigen Aufsichtsbehörde oder — gemäß Artikel 63 — von dem Ausschuss genehmigt wurden. Im Fall einer Akkreditierung nach Absatz 1 Buchstabe b des vorliegenden Artikels ergänzen diese Anforderungen diejenigen, die in der Verordnung (EG) Nr. 765/2008 und in den technischen Vorschriften, in denen die Methoden und Verfahren der Zertifizierungsstellen beschrieben werden, vorgesehen sind.</ALINEA>
                     </PARAG>
                     <PARAG IDENTIFIER="043.004">
                         <NO.PARAG>(4)</NO.PARAG>
@@ -4216,7 +4216,7 @@ Recht auf Vergessenwerden
                     </PARAG>
                     <PARAG IDENTIFIER="043.006">
                         <NO.PARAG>(6)</NO.PARAG>
-                        <ALINEA>Die Anforderungen nach Absatz 3 des vorliegenden Artikels und die Kriterien nach Artikel 42 Absatz 5 werden von der Aufsichtsbehörde in leicht zugänglicher Form veröffentlicht. Die Aufsichtsbehörden übermitteln diese Anforderungen und Kriterien auch dem Ausschuss. Der Ausschuss nimmt alle Zertifizierungsverfahren und Datenschutzsiegel in ein Register auf und veröffentlicht sie in geeigneter Weise.</ALINEA>
+                        <ALINEA>Die Anforderungen nach Absatz 3 des vorliegenden Artikels und die Kriterien nach Artikel 42 Absatz 5 werden von der Aufsichtsbehörde in leicht zugänglicher Form veröffentlicht. Die Aufsichtsbehörden übermitteln diese Anforderungen und Kriterien auch dem Ausschuss.</ALINEA>
                     </PARAG>
                     <PARAG IDENTIFIER="043.007">
                         <NO.PARAG>(7)</NO.PARAG>
@@ -4251,7 +4251,7 @@ Recht auf Vergessenwerden
             <ARTICLE IDENTIFIER="044">
                 <TI.ART>Artikel 44</TI.ART>
                 <STI.ART>Allgemeine Grundsätze der Datenübermittlung</STI.ART>
-                <ALINEA>Jedwede Übermittlung personenbezogener Daten, die bereits verarbeitet werden oder nach ihrer Übermittlung an ein Drittland oder eine internationale Organisation verarbeitet werden sollen, ist nur zulässig, wenn der Verantwortliche und der Auftragsverarbeiter die in diesem Kapitel niedergelegten Bedingungen einhalten und auch die sonstigen Bestimmungen dieser Verordnung eingehalten werden; dies gilt auch für die etwaige Weiterübermittlung personenbezogener Daten durch das betreffende Drittland oder die betreffende internationale Organisation an ein anderes Drittland oder eine andere internationale Organisation. Alle Bestimmungen dieses Kapitels sind anzuwenden, um sicherzustellen, dass das durch diese Verordnung gewährleistete Schutzniveau für natürliche Personen nicht untergraben wird.</ALINEA>
+                <ALINEA>Jedwede Übermittlung personenbezogener Daten, die bereits verarbeitet werden oder nach ihrer Übermittlung an ein Drittland oder eine internationale Organisation verarbeitet werden sollen, ist nur zulässig, wenn der Verantwortliche und der Auftragsverarbeiter die in diesem Kapitel niedergelegten Bedingungen einhalten und auch die sonstigen Bestimmungen dieser Verordnung eingehalten werden; dies gilt auch für die etwaige Weiterübermittlung personenbezogener Daten aus dem betreffenden Drittland oder der betreffenden internationalen Organisation an ein anderes Drittland oder eine andere internationale Organisation. Alle Bestimmungen dieses Kapitels sind anzuwenden, um sicherzustellen, dass das durch diese Verordnung gewährleistete Schutzniveau für natürliche Personen nicht untergraben wird.</ALINEA>
             </ARTICLE>
             <?PAGE NO="61"?>
             <ARTICLE IDENTIFIER="045">
@@ -4983,7 +4983,7 @@ Aufsichtsbehörde
                                 <ITEM>
                                     <NP>
                                         <NO.P>p)</NO.P>
-                                        <TXT>die Kriterien für die Akkreditierung einer Stelle für die Überwachung der Einhaltung der Verhaltensregeln gemäß Artikel 41 und einer Zertifizierungsstelle gemäß Artikel 43 abfassen und veröffentlichen;</TXT>
+                                        <TXT>die Anforderungen an die Akkreditierung einer Stelle für die Überwachung der Einhaltung der Verhaltensregeln gemäß Artikel 41 und einer Zertifizierungsstelle gemäß Artikel 43 abfassen und veröffentlichen;</TXT>
                                     </NP>
                                 </ITEM>
                                 <ITEM>
@@ -5079,7 +5079,7 @@ Aufsichtsbehörde
                                 <ITEM>
                                     <NP>
                                         <NO.P>f)</NO.P>
-                                        <TXT>gemäß dem Verfahrensrecht der Union oder dem Verfahrensrecht des Mitgliedstaats Zugang zu den Geschäftsräumen, einschließlich aller Datenverarbeitungsanlagen und -geräte, des Verantwortlichen und des Auftragsverarbeiters zu erhalten.</TXT>
+                                        <TXT>gemäß dem Verfahrensrecht der Union oder dem Verfahrensrecht des Mitgliedstaats Zugang zu den Räumlichkeiten, einschließlich aller Datenverarbeitungsanlagen und -geräte, des Verantwortlichen und des Auftragsverarbeiters zu erhalten.</TXT>
                                     </NP>
                                 </ITEM>
                             </LIST>
@@ -5118,7 +5118,7 @@ Aufsichtsbehörde
                                 <ITEM>
                                     <NP>
                                         <NO.P>e)</NO.P>
-                                        <TXT>den Verantwortlichen anzuweisen, die von einer Verletzung des Schutzes personenbezogener Daten betroffenen Person entsprechend zu benachrichtigen,</TXT>
+                                        <TXT>den Verantwortlichen anzuweisen, die von einer Verletzung des Schutzes personenbezogener Daten betroffene Person entsprechend zu benachrichtigen,</TXT>
                                     </NP>
                                 </ITEM>
                                 <ITEM>
@@ -5438,7 +5438,7 @@ Aufsichtsbehörde
                 </ARTICLE>
                 <ARTICLE IDENTIFIER="064">
                     <TI.ART>Artikel 64</TI.ART>
-                    <STI.ART>Stellungnahme Ausschusses</STI.ART>
+                    <STI.ART>Stellungnahme des Ausschusses</STI.ART>
                     <PARAG IDENTIFIER="064.001">
                         <NO.PARAG>(1)</NO.PARAG>
                         <ALINEA>
@@ -5460,7 +5460,7 @@ Aufsichtsbehörde
                                 <ITEM>
                                     <NP>
                                         <NO.P>c)</NO.P>
-                                        <TXT>der Billigung der Kriterien für die Akkreditierung einer Stelle nach Artikel 41 Absatz 3 oder einer Zertifizierungsstelle nach Artikel 43 Absatz 3 dient,</TXT>
+                                        <TXT>der Billigung der Anforderungen an die Akkreditierung einer Stelle nach Artikel 41 Absatz 3, einer Zertifizierungsstelle nach Artikel 43 Absatz 3 oder der Kriterien für die Zertifizierung gemäß Artikel 42 Absatz 5 dient,</TXT>
                                     </NP>
                                 </ITEM>
                                 <ITEM>
@@ -5518,15 +5518,15 @@ Aufsichtsbehörde
                     </PARAG>
                     <PARAG IDENTIFIER="064.006">
                         <NO.PARAG>(6)</NO.PARAG>
-                        <ALINEA>Die zuständige Aufsichtsbehörde nimmt den in Absatz 1 genannten Beschlussentwurf nicht vor Ablauf der in Absatz 3 genannten Frist an.</ALINEA>
+                        <ALINEA>Die in Absatz 1 genannte zuständige Aufsichtsbehörde nimmt den in Absatz 1 genannten Beschlussentwurf nicht vor Ablauf der in Absatz 3 genannten Frist an.</ALINEA>
                     </PARAG>
                     <PARAG IDENTIFIER="064.007">
                         <NO.PARAG>(7)</NO.PARAG>
-                        <ALINEA>Die in Absatz 1 genannte Aufsichtsbehörde trägt der Stellungnahme des Ausschusses s weitestgehend Rechnung und teilt dessen Vorsitz binnen zwei Wochen nach Eingang der Stellungnahme auf elektronischem Wege unter Verwendung eines standardisierten Formats mit, ob sie den Beschlussentwurf beibehalten oder ändern wird; gegebenenfalls übermittelt sie den geänderten Beschlussentwurf.</ALINEA>
+                        <ALINEA>Die in Absatz 1 genannte zuständige Aufsichtsbehörde trägt der Stellungnahme des Ausschusses weitestgehend Rechnung und teilt dessen Vorsitz binnen zwei Wochen nach Eingang der Stellungnahme auf elektronischem Wege unter Verwendung eines standardisierten Formats mit, ob sie den Beschlussentwurf beibehalten oder ändern wird; gegebenenfalls übermittelt sie den geänderten Beschlussentwurf.</ALINEA>
                     </PARAG>
                     <PARAG IDENTIFIER="064.008">
                         <NO.PARAG>(8)</NO.PARAG>
-                        <ALINEA>Teilt die betroffene Aufsichtsbehörde dem Vorsitz des Ausschusses innerhalb der Frist nach Absatz 7 des vorliegenden Artikels unter Angabe der maßgeblichen Gründe mit, dass sie beabsichtigt, der Stellungnahme des Ausschusses insgesamt oder teilweise nicht zu folgen, so gilt Artikel 65 Absatz 1.</ALINEA>
+                        <ALINEA>Teilt die in Absatz 1 genannte zuständige Aufsichtsbehörde dem Vorsitz des Ausschusses innerhalb der Frist nach Absatz 7 des vorliegenden Artikels unter Angabe der maßgeblichen Gründe mit, dass sie beabsichtigt, der Stellungnahme des Ausschusses insgesamt oder teilweise nicht zu folgen, so gilt Artikel 65 Absatz 1.</ALINEA>
                     </PARAG>
                 </ARTICLE>
                 <ARTICLE IDENTIFIER="065">
@@ -5540,7 +5540,7 @@ Aufsichtsbehörde
                                 <ITEM>
                                     <NP>
                                         <NO.P>a)</NO.P>
-                                        <TXT>wenn eine betroffene Aufsichtsbehörde in einem Fall nach Artikel 60 Absatz 4 einen maßgeblichen und begründeten Einspruch gegen einen Beschlussentwurf der federführenden Behörde eingelegt hat oder die federführende Behörde einen solchen Einspruch als nicht maßgeblich oder nicht begründet abgelehnt hat. Der verbindliche Beschluss betrifft alle Angelegenheiten, die Gegenstand des maßgeblichen und begründeten Einspruchs sind, insbesondere die Frage, ob ein Verstoß gegen diese Verordnung vorliegt;</TXT>
+                                        <TXT>wenn eine betroffene Aufsichtsbehörde in einem Fall nach Artikel 60 Absatz 4 einen maßgeblichen und begründeten Einspruch gegen einen Beschlussentwurf der federführenden Aufsichtsbehörde eingelegt hat und sich die federführende Aufsichtsbehörde dem Einspruch nicht angeschlossen hat oder den Einspruch als nicht maßgeblich oder nicht begründet abgelehnt hat. Der verbindliche Beschluss betrifft alle Angelegenheiten, die Gegenstand des maßgeblichen und begründeten Einspruchs sind, insbesondere die Frage, ob ein Verstoß gegen diese Verordnung vorliegt;</TXT>
                                     </NP>
                                 </ITEM>
                                 <?PAGE NO="75"?>
