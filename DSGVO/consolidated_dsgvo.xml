@@ -5665,7 +5665,7 @@ Ausschuss
                     </PARAG>
                     <PARAG IDENTIFIER="069.002">
                         <NO.PARAG>(2)</NO.PARAG>
-                        <ALINEA>Unbeschadet der Ersuchen der Kommission gemäß Artikel 70 Absatz 1 Buchstabe b und Absatz 2 ersucht der Ausschuss bei der Erfüllung seiner Aufgaben oder in Ausübung seiner Befugnisse weder um Weisung noch nimmt er Weisungen entgegen.</ALINEA>
+                        <ALINEA>Unbeschadet der Ersuchen der Kommission gemäß Artikel 70 Absätze 1 und 2 ersucht der Ausschuss bei der Erfüllung seiner Aufgaben oder in Ausübung seiner Befugnisse weder um Weisung noch nimmt er Weisungen entgegen.</ALINEA>
                     </PARAG>
                 </ARTICLE>
                 <ARTICLE IDENTIFIER="070">
@@ -5746,7 +5746,7 @@ Ausschuss
                                 <ITEM>
                                     <NP>
                                         <NO.P>l)</NO.P>
-                                        <TXT>Überprüfung der praktischen Anwendung der unter den Buchstaben e und f genannten Leitlinien, Empfehlungen und bewährten Verfahren;</TXT>
+                                        <TXT>Überprüfung der praktischen Anwendung der Leitlinien, Empfehlungen und bewährten Verfahren;</TXT>
                                     </NP>
                                 </ITEM>
                                 <ITEM>
@@ -5764,13 +5764,14 @@ Ausschuss
                                 <ITEM>
                                     <NP>
                                         <NO.P>o)</NO.P>
-                                        <TXT>Akkreditierung von Zertifizierungsstellen und deren regelmäßige Überprüfung gemäß Artikel 43 und Führung eines öffentlichen Registers der akkreditierten Einrichtungen gemäß Artikel 43 Absatz 6 und der in Drittländern niedergelassenen akkreditierten Verantwortlichen oder Auftragsverarbeiter gemäß Artikel 42 Absatz 7;</TXT>
+                                        <TXT>Genehmigung der Zertifizierungskriterien gemäß Artikel 42 Absatz 5 und Führung eines öffentlichen Registers der Zertifizierungsverfahren sowie von Datenschutzsiegeln und -prüfzeichen gemäß Artikel 42 Absatz 8 und der in Drittländern niedergelassenen zertifizierten Verantwortlichen oder Auftragsverarbeiter gemäß Artikel 42 Absatz 7;
+                                    <QUOT.END CODE="201C" ID="QE0064" REF.START="QS0064"/>.</TXT>
                                     </NP>
                                 </ITEM>
                                 <ITEM>
                                     <NP>
                                         <NO.P>p)</NO.P>
-                                        <TXT>Präzisierung der in Artikel 43 Absatz 3 genannten Anforderungen im Hinblick auf die Akkreditierung von Zertifizierungsstellen gemäß Artikel 42;</TXT>
+                                        <TXT>Genehmigung der in Artikel 43 Absatz 3 genannten Anforderungen im Hinblick auf die Akkreditierung von Zertifizierungsstellen gemäß Artikel 43;</TXT>
                                     </NP>
                                 </ITEM>
                                 <ITEM>
@@ -6032,7 +6033,7 @@ Ausschuss
                 <STI.ART>Recht auf Beschwerde bei einer Aufsichtsbehörde</STI.ART>
                 <PARAG IDENTIFIER="077.001">
                     <NO.PARAG>(1)</NO.PARAG>
-                    <ALINEA>Jede betroffene Person hat unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs das Recht auf Beschwerde bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres Aufenthaltsorts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, wenn die betroffene Person der Ansicht ist, dass die Verarbeitung der sie betreffenden personenbezogenen Daten gegen diese Verordnung verstößt.</ALINEA>
+                    <ALINEA>Jede betroffene Person hat unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs das Recht auf Beschwerde bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres gewöhnlichen Aufenthaltsorts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, wenn die betroffene Person der Ansicht ist, dass die Verarbeitung der sie betreffenden personenbezogenen Daten gegen diese Verordnung verstößt.</ALINEA>
                 </PARAG>
                 <PARAG IDENTIFIER="077.002">
                     <NO.PARAG>(2)</NO.PARAG>
@@ -6068,7 +6069,7 @@ Ausschuss
                 </PARAG>
                 <PARAG IDENTIFIER="079.002">
                     <NO.PARAG>(2)</NO.PARAG>
-                    <ALINEA>Für Klagen gegen einen Verantwortlichen oder gegen einen Auftragsverarbeiter sind die Gerichte des Mitgliedstaats zuständig, in dem der Verantwortliche oder der Auftragsverarbeiter eine Niederlassung hat. Wahlweise können solche Klagen auch bei den Gerichten des Mitgliedstaats erhoben werden, in dem die betroffene Person ihren Aufenthaltsort hat, es sei denn, es handelt sich bei dem Verantwortlichen oder dem Auftragsverarbeiter um eine Behörde eines Mitgliedstaats, die in Ausübung ihrer hoheitlichen Befugnisse tätig geworden ist.</ALINEA>
+                    <ALINEA>Für Klagen gegen einen Verantwortlichen oder gegen einen Auftragsverarbeiter sind die Gerichte des Mitgliedstaats zuständig, in dem der Verantwortliche oder der Auftragsverarbeiter eine Niederlassung hat. Wahlweise können solche Klagen auch bei den Gerichten des Mitgliedstaats erhoben werden, in dem die betroffene Person ihren gewöhnlichen Aufenthaltsort hat, es sei denn, es handelt sich bei dem Verantwortlichen oder dem Auftragsverarbeiter um eine Behörde eines Mitgliedstaats, die in Ausübung ihrer hoheitlichen Befugnisse tätig geworden ist.</ALINEA>
                 </PARAG>
             </ARTICLE>
             <?PAGE NO="81"?>
@@ -6134,12 +6135,12 @@ Ausschuss
                 <STI.ART>Allgemeine Bedingungen für die Verhängung von Geldbußen</STI.ART>
                 <PARAG IDENTIFIER="083.001">
                     <NO.PARAG>(1)</NO.PARAG>
-                    <ALINEA>Jede Aufsichtsbehörde stellt sicher, dass die Verhängung von Geldbußen gemäß diesem Artikel für Verstöße gegen diese Verordnung gemäß den Absätzen 5 und 6 in jedem Einzelfall wirksam, verhältnismäßig und abschreckend ist.</ALINEA>
+                    <ALINEA>Jede Aufsichtsbehörde stellt sicher, dass die Verhängung von Geldbußen gemäß diesem Artikel für Verstöße gegen diese Verordnung gemäß den Absätzen 4, 5 und 6 in jedem Einzelfall wirksam, verhältnismäßig und abschreckend ist.</ALINEA>
                 </PARAG>
                 <PARAG IDENTIFIER="083.002">
                     <NO.PARAG>(2)</NO.PARAG>
                     <ALINEA>
-                        <P>Geldbußen werden je nach den Umständen des Einzelfalls zusätzlich zu oder anstelle von Maßnahmen nach Artikel 58 Absatz 2 Buchstaben a bis h und i verhängt. Bei der Entscheidung über die Verhängung einer Geldbuße und über deren Betrag wird in jedem Einzelfall Folgendes gebührend berücksichtigt:</P>
+                        <P>Geldbußen werden je nach den Umständen des Einzelfalls zusätzlich zu oder anstelle von Maßnahmen nach Artikel 58 Absatz 2 Buchstaben a bis h und j verhängt. Bei der Entscheidung über die Verhängung einer Geldbuße und über deren Betrag wird in jedem Einzelfall Folgendes gebührend berücksichtigt:</P>
                         <LIST TYPE="alpha">
                             <ITEM>
                                 <NP>
@@ -6366,11 +6367,11 @@ Ausschuss
                 <STI.ART>Datenverarbeitung im Beschäftigungskontext</STI.ART>
                 <PARAG IDENTIFIER="088.001">
                     <NO.PARAG>(1)</NO.PARAG>
-                    <ALINEA>Die Mitgliedstaaten können durch Rechtsvorschriften oder durch Kollektivvereinbarungen spezifischere Vorschriften zur Gewährleistung des Schutzes der Rechte und Freiheiten hinsichtlich der Verarbeitung personenbezogener Beschäftigtendaten im Beschäftigungskontext, insbesondere für Zwecke der Einstellung, der Erfüllung des Arbeitsvertrags einschließlich der Erfüllung von durch Rechtsvorschriften oder durch Kollektivvereinbarung en festgelegten Pflichten, des Managements, der Planung und der Organisation der Arbeit, der Gleichheit und Diversität am Arbeitsplatz, der Gesundheit und Sicherheit am Arbeitsplatz, des Schutzes des Eigentums der Arbeitgeber oder der Kunden sowie für Zwecke der Inanspruchnahme der mit der Beschäftigung zusammenhängenden individuellen oder kollektiven Rechte und Leistungen und für Zwecke der Beendigung des Beschäftigungsverhältnisses vorsehen.</ALINEA>
+                    <ALINEA>Die Mitgliedstaaten können durch Rechtsvorschriften oder durch Kollektivvereinbarungen spezifischere Vorschriften zur Gewährleistung des Schutzes der Rechte und Freiheiten hinsichtlich der Verarbeitung personenbezogener Beschäftigtendaten im Beschäftigungskontext, insbesondere für Zwecke der Einstellung, der Erfüllung des Arbeitsvertrags einschließlich der Erfüllung von durch Rechtsvorschriften oder durch Kollektivvereinbarungen festgelegten Pflichten, des Managements, der Planung und der Organisation der Arbeit, der Gleichheit und Diversität am Arbeitsplatz, der Gesundheit und Sicherheit am Arbeitsplatz, des Schutzes des Eigentums der Arbeitgeber oder der Kunden sowie für Zwecke der Inanspruchnahme der mit der Beschäftigung zusammenhängenden individuellen oder kollektiven Rechte und Leistungen und für Zwecke der Beendigung des Beschäftigungsverhältnisses vorsehen.</ALINEA>
                 </PARAG>
                 <PARAG IDENTIFIER="088.002">
                     <NO.PARAG>(2)</NO.PARAG>
-                    <ALINEA>Diese Vorschriften umfassen angemessene und besondere Maßnahmen zur Wahrung der menschlichen Würde, der berechtigten Interessen und der Grundrechte der betroffenen Person, insbesondere im Hinblick auf die Transparenz der Verarbeitung, die Übermittlung personenbezogener Daten innerhalb einer Unternehmensgruppe oder einer Gruppe von Unternehmen, die eine gemeinsame Wirtschaftstätigkeit ausüben, und die Überwachungssysteme am Arbeitsplatz.</ALINEA>
+                    <ALINEA>Diese Vorschriften umfassen geeignete und besondere Maßnahmen zur Wahrung der menschlichen Würde, der berechtigten Interessen und der Grundrechte der betroffenen Person, insbesondere im Hinblick auf die Transparenz der Verarbeitung, die Übermittlung personenbezogener Daten innerhalb einer Unternehmensgruppe oder einer Gruppe von Unternehmen, die eine gemeinsame Wirtschaftstätigkeit ausüben, und die Überwachungssysteme am Arbeitsplatz.</ALINEA>
                 </PARAG>
                 <PARAG IDENTIFIER="088.003">
                     <NO.PARAG>(3)</NO.PARAG>
