@@ -6534,6 +6534,16 @@ gatsby-transformer-sharp@^2.5.12:
     semver "^5.7.1"
     sharp "^0.25.1"
 
+gatsby-transformer-xml@^2.3.10:
+  version "2.3.10"
+  resolved "https://registry.yarnpkg.com/gatsby-transformer-xml/-/gatsby-transformer-xml-2.3.10.tgz#2c11a252e0279de3e30994e5bff8619c4ddfc0c7"
+  integrity sha512-qYK/J+wyDEBh4YtCykJe/L/L3ZmIu3IwVSEoqYI+g5Zqnhcqb6XWMloCXaYIfOe4djcLAYilL4EQnQb+zJxcNg==
+  dependencies:
+    "@babel/runtime" "^7.10.3"
+    bluebird "^3.7.2"
+    lodash "^4.17.15"
+    xml-parser "^1.2.1"
+
 gatsby@^2.24.26:
   version "2.24.26"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.24.26.tgz#9b6d0e46e73eaf37a302c6f1eb41957bc30af969"
@@ -14376,6 +14386,13 @@ xml-parse-from-string@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/xml-parse-from-string/-/xml-parse-from-string-1.0.1.tgz#a9029e929d3dbcded169f3c6e28238d95a5d5a28"
   integrity sha1-qQKekp09vN7RafPG4oI42VpdWig=
+
+xml-parser@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/xml-parser/-/xml-parser-1.2.1.tgz#c31f4c34f2975db82ad013222120592736156fcd"
+  integrity sha1-wx9MNPKXXbgq0BMiISBZJzYVb80=
+  dependencies:
+    debug "^2.2.0"
 
 xml2js@^0.4.5:
   version "0.4.23"
